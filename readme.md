@@ -80,3 +80,7 @@ streamlit run app.py
 - **DuckDuckGo Search API**: For web search results.
 - **YouTube Data API**: For related video recommendations.
 - **PyMuPDF**: For extracting text from PDFs.
+
+## Live Link
+
+[Lecture Insights Generator](https://gaints-to-genius-matrix-2025.streamlit.app/)
