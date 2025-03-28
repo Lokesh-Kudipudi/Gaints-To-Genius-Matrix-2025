@@ -7,3 +7,4 @@ langchain-text-splitters
 google-api-python-client
 python-dotenv
 faiss-cpu
+duckduckgo-search
