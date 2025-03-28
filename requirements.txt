@@ -1,0 +1,9 @@
+streamlit
+pymupdf
+langchain-google-genai
+langchain-core
+langchain-community
+langchain-text-splitters
+google-api-python-client
+python-dotenv
+faiss-cpu
