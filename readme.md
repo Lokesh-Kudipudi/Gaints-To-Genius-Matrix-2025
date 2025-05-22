@@ -15,6 +15,14 @@ This project is a **Streamlit-based application** that provides tools for genera
 - **Web Resource Links**: Provides curated links to websites related to the uploaded content for further exploration.
 - **Interactive Query Support**: Users can ask follow-up questions about the PDF content for deeper understanding.
 
+## Live Link
+
+[Lecture Insights Generator](https://gaints-to-genius-matrix-2025.streamlit.app/)
+
+## Github Link
+
+[Lecture Insights Generator](https://github.com/Lokesh-Kudipudi/Gaints-To-Genius-Matrix-2025)
+
 ## Getting Started
 
 ### Prerequisites
@@ -80,7 +88,3 @@ streamlit run app.py
 - **DuckDuckGo Search API**: For web search results.
 - **YouTube Data API**: For related video recommendations.
 - **PyMuPDF**: For extracting text from PDFs.
-
-## Live Link
-
-[Lecture Insights Generator](https://gaints-to-genius-matrix-2025.streamlit.app/)

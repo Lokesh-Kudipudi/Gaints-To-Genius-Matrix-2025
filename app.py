@@ -16,8 +16,11 @@ import os
 load_dotenv()
 
 # Check for API keys
-google_api_key = os.getenv("GOOGLE_API_KEY")
-youtube_api_key = os.getenv("YOUTUBE_API_KEY")
+# google_api_key = os.getenv("GOOGLE_API_KEY")
+# youtube_api_key = os.getenv("YOUTUBE_API_KEY")
+
+google_api_key = st.secrets["GOOGLE_API_KEY"]
+youtube_api_key = st.secrets["YOUTUBE_API_KEY"]
 
 # Check if Google Gemini API key is provided, if not, prompt the user to input it
 if not google_api_key:
